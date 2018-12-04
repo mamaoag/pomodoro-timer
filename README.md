@@ -7,7 +7,7 @@ To use this make sure that the script has executable permissions by running
 `chmod+x pomodoro.sh`
 
 Once done, run the script by using the following:
-`./pomodoro.sh <number of pomodoro>
+`./pomodoro.sh <number of pomodoro>`
 
 Example
 `./pomodoro.sh 4`
